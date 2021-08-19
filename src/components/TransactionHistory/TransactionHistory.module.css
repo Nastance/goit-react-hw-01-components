@@ -1,0 +1,16 @@
+.transaction__history {
+  display: block;
+  justify-content: center;
+  text-align: center;
+}
+
+th {
+  text-transform: uppercase;
+  height: 35px;
+  width: 200px;
+  background-color: rgb(143, 199, 221);
+}
+
+tr:nth-child(2n) {
+  background-color: rgb(201, 227, 228);
+}

@@ -1,0 +1,21 @@
+.statistics {
+  display: block;
+  justify-content: center;
+  text-align: center;
+}
+
+.stat__list {
+  display: flex;
+  justify-content: center;
+}
+
+.item {
+  padding: 20px;
+  border: 1px solid gray;
+  /* color: white; */
+}
+
+.percentage {
+  display: flex;
+  justify-content: center;
+}
